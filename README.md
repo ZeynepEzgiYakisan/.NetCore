@@ -1,1 +1,2 @@
-Burada Udemy'de ki almış olduğum eğitimde ki .net core ile geliştirdiğim uygulamalar yer almaktadır.
+Burada Udemy'de aldığım eğitimde .NET Core ile geliştirdiğim uygulamalar yer almaktadır.
+

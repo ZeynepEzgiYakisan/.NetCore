@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Udemy.Jwt.App",
+    "\\Udemy.Jwt.App\\Onion",
+    "\\Udemy.Jwt.App\\Onion\\Core",
+    "\\Udemy.Jwt.App\\Onion\\Core\\Onion.JwtApp.Aplication",
+    "\\Udemy.Jwt.App\\Onion\\Core\\Onion.JwtApp.Aplication\\Features",
+    "\\Udemy.Jwt.App\\Onion\\Core\\Onion.JwtApp.Aplication\\Features\\CQRS",
+    "\\Udemy.Jwt.App\\Onion\\Core\\Onion.JwtApp.Aplication\\Features\\CQRS\\Handlers",
+    "\\Udemy.Jwt.App\\Onion\\Presentation",
+    "\\Udemy.Jwt.App\\Onion\\Presentation\\Onion.JwtApp.API",
+    "\\Udemy.Jwt.App\\Onion\\Presentation\\Onion.JwtApp.API\\Controllers"
+  ],
+  "SelectedNode": "\\Udemy.Jwt.App\\Onion\\Presentation\\Onion.JwtApp.API\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

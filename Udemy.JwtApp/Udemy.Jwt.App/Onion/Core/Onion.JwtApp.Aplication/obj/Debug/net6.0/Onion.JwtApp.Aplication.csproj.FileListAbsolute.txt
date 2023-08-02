@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\bin\Debug\net6.0\Onion.JwtApp.Aplication.deps.json
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\bin\Debug\net6.0\Onion.JwtApp.Aplication.dll
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\bin\Debug\net6.0\Onion.JwtApp.Aplication.pdb
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\bin\Debug\net6.0\Onion.JwtApp.Domain.dll
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\bin\Debug\net6.0\Onion.JwtApp.Domain.pdb
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\Onion.JwtApp.Aplication.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\Onion.JwtApp.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\Onion.JwtApp.Aplication.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\Onion.JwtApp.Aplication.AssemblyInfo.cs
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\Onion.JwtApp.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\Onion.JwtApp.Aplication.csproj.CopyComplete
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\Onion.JwtApp.Aplication.dll
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\refint\Onion.JwtApp.Aplication.dll
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\Onion.JwtApp.Aplication.pdb
+C:\Users\Acer\Desktop\ASP NET\Udemy_Kurs\Udemy.JwtApp\Udemy.Jwt.App\Onion\Core\Onion.JwtApp.Aplication\obj\Debug\net6.0\ref\Onion.JwtApp.Aplication.dll
